@@ -2,7 +2,7 @@
 <br>
     
 ### Hi, I'm Kevin "Ravasco" Otieno
-### A Python and React Developer and UI / UX designer.
+
 <!-- <div align="center">
 <p align="center">Nominate me as GitHub Star ⭐</p>
 
