@@ -35,10 +35,10 @@
 
 ### A Python and React Developer.
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" /> -->
 
 #### Personal summary
-- 💻 I'm interested in Python, Django, Django Rest Framework, React, JQuery, Vanilla JS, CSS, UI/UX design
+- 💻 A developer specializing in Python, Django, Django Rest Framework, React, JQuery, Vanilla JS, CSS, UI/UX design
 - Learning: Currently improving my UI / UX design skills for both mobile and web apps.
 - 🎮 FIFA, PES (eFootball) and COD 😃
 - 🙋‍ Open to collaborate on a project.
@@ -48,7 +48,7 @@
 - 💲 Forex informational site: [FinancahHub forex site](https://financialhubfx.com/)
 - 📝Blog / Shop: [Banana Imperium](http://bananaimperium.com/)
 
-<!-- ### Languages & Tools
+### Languages & Tools
 
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -56,7 +56,7 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 <div align="center">
 <p align="center">Tools & Technology 🛠</p>
