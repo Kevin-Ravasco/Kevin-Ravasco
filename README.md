@@ -32,7 +32,7 @@
 <br>
 💲 Forex informational site: [FinancahHub forex site](https://financialhubfx.com/)
 <br>
-📝 Blog / Shop: [Banana Imperium](http://bananaimperium.com/)
+📰 Blog / Shop: [Banana Imperium](http://bananaimperium.com/)
 
 
 <div align="center">
