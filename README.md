@@ -61,7 +61,7 @@
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Ravasco&theme=gotham)](https://github.com/Kevin-Ravasco/github-readme-stats)
 
 
-Open Source Contributor from <b>Nairobi, Kenya<b> 💚❤🖤heart
+Open Source Contributor from <b>Nairobi, Kenya<b> 💚❤🖤
     
 <p align="center">Let's connect!</p>
 <a href="https://twitter.com/KevinRavasco">
