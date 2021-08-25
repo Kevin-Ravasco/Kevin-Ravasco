@@ -20,6 +20,8 @@
 #### Personal summary
 💻 A developer specializing in Python, Django, Django Rest Framework, React, JQuery, Vanilla JS, CSS, UI/UX design
 <br>
+🕸 Does web and mobile app Design in Adobe XD
+<br>
 📗 Currently improving my UI / UX design skills for both mobile and web apps.
 <br>
 🎮 FIFA, PES (eFootball) and COD 😃
