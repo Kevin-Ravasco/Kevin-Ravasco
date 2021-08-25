@@ -1,6 +1,6 @@
-### Hi there, I'm Kevin Ravasco 👋
-
 <div align="center">
+    ### Hi there, I'm Kevin Ravasco 👋
+    #### Web developer and UI / UX designer
 <br>
 
 <!-- <div align="center">
@@ -18,15 +18,15 @@
 <!-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" /> -->
 
 #### Personal summary
-- 💻 A developer specializing in Python, Django, Django Rest Framework, React, JQuery, Vanilla JS, CSS, UI/UX design
-- Learning: Currently improving my UI / UX design skills for both mobile and web apps.
-- 🎮 FIFA, PES (eFootball) and COD 😃
-- 🙋‍ Open to collaborate on a project.
+💻 A developer specializing in Python, Django, Django Rest Framework, React, JQuery, Vanilla JS, CSS, UI/UX design
+📗 Currently improving my UI / UX design skills for both mobile and web apps.
+🎮 FIFA, PES (eFootball) and COD 😃
+🙋‍ Open to collaborate on a project.
 
 #### Some of the Projects Done:
-- 🎁 Ecommerce: [Odcen - online store](https://www.odcen.com/)
-- 💲 Forex informational site: [FinancahHub forex site](https://financialhubfx.com/)
-- 📝Blog / Shop: [Banana Imperium](http://bananaimperium.com/)
+🎁 Ecommerce: [Odcen - online store](https://www.odcen.com/)
+💲 Forex informational site: [FinancahHub forex site](https://financialhubfx.com/)
+📝 Blog / Shop: [Banana Imperium](http://bananaimperium.com/)
 
 
 <div align="center">
@@ -51,7 +51,7 @@
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Ravasco&theme=gotham)](https://github.com/Kevin-Ravasco/github-readme-stats)
 
 
-Open Source Contributor from <b>Nairobi, Kenya<b> 💚❤🖤
+Open Source Contributor from <b>Nairobi, Kenya<b> 💚❤🖤heart
     
 <p align="center">Let's connect!</p>
 <a href="https://twitter.com/KevinRavasco">
