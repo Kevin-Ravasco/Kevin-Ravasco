@@ -18,13 +18,20 @@
 
 #### Personal summary
 💻 A developer specializing in Python, Django, Django Rest Framework, React, JQuery, Vanilla JS, CSS, UI/UX design
+<br>
 📗 Currently improving my UI / UX design skills for both mobile and web apps.
+<br>
 🎮 FIFA, PES (eFootball) and COD 😃
+<br>
 🙋‍ Open to collaborate on a project.
+<br>
+<br>
 
 #### Some of the Projects Done:
 🎁 Ecommerce: [Odcen - online store](https://www.odcen.com/)
+<br>
 💲 Forex informational site: [FinancahHub forex site](https://financialhubfx.com/)
+<br>
 📝 Blog / Shop: [Banana Imperium](http://bananaimperium.com/)
 
 
