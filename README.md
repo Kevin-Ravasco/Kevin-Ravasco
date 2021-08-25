@@ -1,6 +1,5 @@
 <div align="center">
-    ### Hi there, I'm Kevin Ravasco 👋
-    #### Web developer and UI / UX designer
+### Hi there, I'm Kevin Ravasco 👋
 <br>
 
 <!-- <div align="center">
@@ -13,7 +12,7 @@
 </div> -->
 
 
-### A Python and React Developer.
+### A Python and React Developer and UI / UX designer.
 
 <!-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" /> -->
 
