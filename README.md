@@ -1,5 +1,4 @@
 <div align="center">
-### Hi there, I'm Kevin Ravasco 👋
 <br>
 
 <!-- <div align="center">
@@ -51,7 +50,7 @@
 
 <br>
 
-<summary>📝 My GitHub Stats</summary>
+####📝 My GitHub Stats
 <br>
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Ravasco&theme=gotham)](https://github.com/Kevin-Ravasco/github-readme-stats)
