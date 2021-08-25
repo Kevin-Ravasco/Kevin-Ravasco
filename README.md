@@ -33,20 +33,20 @@
 </div> -->
 
 
-### A Student, Developer & Writer
+### A Python and React Developer.
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-#### Talking about my personal stuff:
+#### Personal summary
+- 💻 I'm interested in Python, Django, Django Rest Framework, React, JQuery, Vanilla JS, CSS, UI/UX design
+- Learning: Currently improving my UI / UX design skills for both mobile and web apps.
+- 🎮 FIFA, PES (eFootball) and COD 😃
+- 🙋‍ Open to collaborate on a project.
 
-- 🙋‍♂️ Active DSC Lead at [COMSATS Islamabad][dsccui]
-- 👉 Leading [Flutter Islamabad][flutter_isb]
-- 💻 The tech I'm interested in Android, Kotlin, AR/VR and ML
-- ✍ Technical writer at Medium
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 [Portfolio][profile]
+#### Some of the Projects Done:
+- 🎁 Ecommerce: [Odcen - online store](https://www.odcen.com/)
+- 💲 Forex informational site: [FinancahHub forex site](https://financialhubfx.com/)
+- 📝Blog / Shop: [Banana Imperium](http://bananaimperium.com/)
 
 <!-- ### Languages & Tools
 
@@ -58,21 +58,9 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
 
-### ✍ Medium Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
-- [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
-- [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
-- [Flutter Roadmap & Resource Guide — 2020](https://itnext.io/flutter-roadmap-resource-guide-2020-2ea6e4460a15?source=rss-198dec8dcf4a------2)
-- [Getting Most out of GitHub & Stack Overflow — Flutter Beginner](https://mhamzadev.medium.com/getting-most-out-of-github-stack-overflow-flutter-beginner-5ad8ed01cdef?source=rss-198dec8dcf4a------2)
-<!-- BLOG-POST-LIST:END -->
-
 <div align="center">
 <p align="center">Tools & Technology 🛠</p>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
@@ -85,15 +73,8 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Kevin-Ravasco&theme=gotham)](https://github.com/Kevin-Ravasco/github-readme-stats)
 
 
-Open Source Contributor from <b>Pakistan<b> 💚
-
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
-
-[quran]: https://github.com/mhmzdev/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: https://mhmz.dev
+Open Source Contributor from <b>Nairobi, Kenya<b> 💚❤🖤
 
