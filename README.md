@@ -72,7 +72,7 @@ Open Source Contributor from <b>Nairobi, Kenya<b> 💚❤🖤
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/kevin-ravasco-b14942112/">
+<a href="https://www.linkedin.com/in/kevin-otieno-b14942112/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
