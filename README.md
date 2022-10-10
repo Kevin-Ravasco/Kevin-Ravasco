@@ -18,11 +18,11 @@
 <!-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" /> -->
 
 #### Personal summary
-💻 A developer specializing in Python, Django, Django Rest Framework, React, JQuery, Vanilla JS, CSS, UI/UX design
+💻 A developer specializing in Python, Django, Django Rest Framework, React, JQuery, CSS
 <br>
-🕸 Does web and mobile app Design in Adobe XD
+🕸 Does web and API Development (RESTful and GraphQL)
 <br>
-📗 Currently improving my UI / UX design skills for both mobile and web apps.
+📗 Currently improving my UI / UX and software design/architecture skills.
 <br>
 🎮 FIFA, PES (eFootball) and COD 😃
 <br>
