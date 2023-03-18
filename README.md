@@ -13,18 +13,18 @@
 </div> -->
 
 
-### A Python and React Developer and UI / UX designer.
+### A Python and React Developer.
 
 <!-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" /> -->
 
 #### Personal summary
-💻 A developer specializing in Python, Django, Django Rest Framework, React, JQuery, CSS
+💻 A developer specializing in Python, Django, Django Rest Framework, React JS.
 <br>
 🕸 Does web and API Development (RESTful and GraphQL)
 <br>
-📗 Currently improving my UI / UX and software design/architecture skills.
+📗 Currently reading about AI and ML.
 <br>
-🎮 FIFA, PES (eFootball) and COD 😃
+🎮 Gamer
 <br>
 🙋‍ Open to collaborate on a project.
 <br>
