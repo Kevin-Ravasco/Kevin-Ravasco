@@ -30,7 +30,7 @@
 <br>
 <br>
 
-#### Some of the Projects Done:
+<!-- #### Some of the Projects Done: -->
 <!-- 🎁 Ecommerce: [Odcen - online store](https://www.odcen.com/)
 <br>
 💲 Forex informational site: [FinancahHub forex site](https://financialhubfx.com/)
